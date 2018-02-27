@@ -68,6 +68,7 @@ public class ConferenceApi {
         	teeShirtSize = profileForm.getTeeShirtSize();
         }
 
+        //comment
         // TODO 1
         // Set the displayName to the value sent by the ProfileForm, if sent
         // otherwise set it to null
